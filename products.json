@@ -1,0 +1,86 @@
+{
+    "products" : [
+        {
+            "Sno" : 1,
+            "name" : "Rice",
+            "quantity" : 10,
+            "unit" :"Kg",
+            "department" : "Dry food",
+            "notes" : "Medium grain"
+
+        },
+        {
+            "Sno" : 2,
+            "name" : "Cheese",
+            "quantity" : 2,
+            "unit" :"Packets",
+            "department" :"Diary products",
+            "notes" :  "Salted cheese" 
+        },
+        {
+            "Sno" : 3,
+            "name" : "Egg",
+            "quantity" : 15,
+            "unit" : "counts",
+            "department" :"Diary & Eggs",
+            "notes" :"duck eggs"
+        },
+        {
+            "Sno" :4 ,
+            "name" :"Garlic" ,
+            "quantity" : 500,
+            "unit" :"gram",
+            "department" :"Vegetables",
+            "notes" : "Indian garlic"
+        },
+        {
+            "Sno" : 5,
+            "name" :"Onion" ,
+            "quantity" : 3,
+            "unit" :"Kg",
+            "department" :"Vegetables",
+            "notes" :"White onions"
+        },
+        {
+            "Sno" : 6,
+            "name" : "Sugar",
+            "quantity" : 2,
+            "unit" :"Kg",
+            "department" :"Food items",
+            "notes" :"Organic palm sugar"
+        },
+        {
+            "Sno" : 7,
+            "name" : "Milk",
+            "quantity" : 5,
+            "unit" :"Packets",
+            "department" :"Diary products",
+            "notes" :"Double-toned and full-cream"
+        },
+        {
+            "Sno" : 8,
+            "name" : "Mushrooms",
+            "quantity" : 500,
+            "unit" :"gram",
+            "department" :"Vegetables",
+            "notes" :"White button mushroom"
+        },
+        {
+            "Sno" : 9,
+            "name" : "Salt",
+            "quantity" : 1,
+            "unit" :"Kg",
+            "department" :"Food items",
+            "notes" :"Iodised salt"
+        },
+        {
+            "Sno" : 10,
+            "name" : "Bread",
+            "quantity" : 2,
+            "unit" :"Packets",
+            "department" :"Bakery",
+            "notes" :"Sweetend bread"
+        }
+
+    ]
+}

@@ -1,0 +1,43 @@
+body{
+    background-image: url("/grocery.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+button{
+    margin-top:3.5em;
+}
+.hidden {
+
+    display: none;
+  
+  }
+table{
+      border: 2px solid rgb(231, 222, 222);
+      margin-top: 8%; 
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+     }
+th{
+         text-align: center;
+         border:1px solid rgb(173, 62, 62);
+         padding:.5em;
+     }
+.container{
+        text-align: center;
+  }
+h2{
+    margin-left:11em;
+    padding: .5em;
+    color: crimson;
+    font-weight: bolder;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.heading
+{
+    color: blueviolet;
+    font-size: large;
+}
+#Click
+{
+    color: darkgrey;
+    background-color: black;
+}
