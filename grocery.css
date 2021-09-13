@@ -1,5 +1,5 @@
 body{
-    background-image: url("/grocery.jpg");
+    background-image: url("grocery.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }

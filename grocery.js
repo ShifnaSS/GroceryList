@@ -17,7 +17,7 @@ displayTable= function(){
         }
         
     }
-    xhttp.open("GET","/products.json",true);
+    xhttp.open("GET","products.json",true);
     xhttp.send();
     }
      
